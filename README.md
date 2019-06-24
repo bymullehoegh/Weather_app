@@ -1,15 +1,15 @@
 # API Weather APP
 Another weather app using API (openweathermap)
 
-Clone the repo.
-Open the index.html
-Enter city-name
-Temperatures: F/C/K
-Windspeed
-Humidity
-Temperature
-Sunset / Sunrise
-.... and more.
+- Clone the repo.
+- Open the index.html
+- Enter city-name
+- Temperatures: F/C/K
+- Windspeed
+- Humidity
+- Temperature
+- Sunset / Sunrise
+- .... and more.
 
 
 ## Made with
