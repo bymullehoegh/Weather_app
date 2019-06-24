@@ -15,5 +15,5 @@ Another weather app using API (openweathermap)
 ## Made with
 
 * [Openweathermap](https://openweathermap.org/api) - Api from Openweathermap
-* [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/getting-started/) - HTML and CSS Framework
+* HTML and CSS.
 * [jquery 2.1.3](http://api.jquery.com/) - Javascript library
